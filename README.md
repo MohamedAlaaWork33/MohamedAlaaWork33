@@ -6,11 +6,11 @@
 
 ###
 
-<h2 data-importer="text" align="left">Junior Data Analyst | Excel | Power BI | SQL</h2>
+<h1 data-importer="text" align="left">Junior Data Analyst | Excel | Power BI | SQL</h1>
 
 ###
 
-<h3 data-importer="text" align="left">🙋‍♂️ About Me:<br>🎓 B.Sc. in Computer Science, Faculty of Science.<br>📊 Passionate about transforming raw data into actionable business insights.<br>📈 Interested in Business Intelligence and  Data Visualization<br>🌱 Currently learning SQL and Advanced Power BI.<br>💼 Open to Data Analyst opportunities.</h3>
+<h2 data-importer="text" align="left">🙋‍♂️ About Me:<br>🎓 B.Sc. in Computer Science, Faculty of Science.<br>📊 Passionate about transforming raw data into actionable business insights.<br>📈 Interested in Business Intelligence and  Data Visualization<br>🌱 Currently learning SQL and Advanced Power BI.<br>💼 Open to Data Analyst opportunities.</h2>
 
 ###
 
