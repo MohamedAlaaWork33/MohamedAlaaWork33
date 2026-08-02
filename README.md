@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="128" src="https://cdn.dribbble.com/userupload/41679749/file/original-f7d95157bd48917750fac2b5715386db.gif"  />
+<img data-importer="image" align="right" height="143" src="https://cdn.dribbble.com/userupload/41679749/file/original-f7d95157bd48917750fac2b5715386db.gif"  />
 
 ###
 
@@ -12,9 +10,7 @@
 
 ###
 
-<br clear="both">
-
-<h3 data-importer="text" align="left">🙋‍♂️ About Me:<br>🎓 B.Sc. in Computer Science, Faculty of Science<br>📊 Passionate about transforming raw data into actionable business insights.<br>📈 Interested in Business Intelligence and  Data Visualization<br>🌱 Currently learning SQL and Advanced Power BI.<br>💼 Open to Data Analyst opportunities.</h3>
+<h3 data-importer="text" align="left">🙋‍♂️ About Me:<br>🎓 B.Sc. in Computer Science, Faculty of Science.<br>📊 Passionate about transforming raw data into actionable business insights.<br>📈 Interested in Business Intelligence and  Data Visualization<br>🌱 Currently learning SQL and Advanced Power BI.<br>💼 Open to Data Analyst opportunities.</h3>
 
 ###
 
