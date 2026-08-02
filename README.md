@@ -62,9 +62,9 @@ Junior Data Analyst | Excel | Power BI | SQL
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:mohamedalaawork33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedalaawork33@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+</a>
 
   <a href="https://wa.me/201004163743">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" />
