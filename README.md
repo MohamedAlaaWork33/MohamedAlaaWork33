@@ -47,7 +47,7 @@ Junior Data Analyst | Excel | Power BI | SQL
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MohamedAlaaWork33/MohamedAlaaWork33/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlaaWork33&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" />
 
   <img src="https://streak-stats.demolab.com?user=MohamedAlaaWork33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160"/>
 </div>
