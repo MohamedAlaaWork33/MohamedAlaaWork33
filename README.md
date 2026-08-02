@@ -74,4 +74,4 @@ Junior Data Analyst | Excel | Power BI | SQL
 
 ---
 
-<img src="https://raw.githubusercontent.com/MohamedAlaaWork33/MohamedAlaaWork33/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/MohamedAlaaWork33/MohamedAlaaWork33/snake-output/snake.svg" alt="Snake animation" />
