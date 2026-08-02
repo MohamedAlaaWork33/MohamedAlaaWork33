@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="102" src="https://cdn.dribbble.com/userupload/41679749/file/original-f7d95157bd48917750fac2b5715386db.gif"  />
+<img data-importer="image" align="right" height="128" src="https://cdn.dribbble.com/userupload/41679749/file/original-f7d95157bd48917750fac2b5715386db.gif"  />
 
 ###
 
