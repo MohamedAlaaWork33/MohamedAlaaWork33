@@ -1,31 +1,66 @@
-<h1 data-importer="text" align="left">Hi 👋! My name is Mohamed Alaa</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
+<h3 align="center">Junior Data Analyst | Power BI | SQL | Excel</h3>
 
-###
+---
 
-<h2 data-importer="text" align="left">Junior Data Analyst | Power BI | SQL | Excel</h2>
+## 🙋‍♂️ About Me
 
-###
+- 🎓 Computer Science Graduate.
+- 📊 Passionate about transforming raw data into meaningful business insights.
+- 📈 Interested in Business Intelligence, Data Visualization, and E-commerce Analytics.
+- 🌱 Currently learning **SQL** and enhancing my **Power BI** skills.
+- 💼 Open to **Data Analyst** opportunities.
 
-<h4 data-importer="text" align="left">🎓 Computer Science Graduate.<br><br>📊 Passionate about transforming raw data into actionable business insights.<br><br>📈 Interested in Business Intelligence, Data Visualization, and E-commerce Analytics.<br><br>🌱 Currently learning SQL and Advanced Power BI.<br><br>💼 Open to Data Analyst opportunities.</h4>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-</div>
+### 📊 Data Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=excel" />
+</p>
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Pivot-4B8BBE?style=for-the-badge" />
+</p>
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 💻 Programming & Database
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,git,github" />
+</p>
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
+---
 
-###
+## 🌱 Currently Learning
+
+- SQL
+- Advanced Power BI
+- Data Modeling
+- Business Intelligence
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlaaWork33&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaaWork33&layout=compact&theme=github_dark" height="170"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/your-linkedin/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
