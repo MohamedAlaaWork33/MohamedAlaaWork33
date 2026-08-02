@@ -1,46 +1,77 @@
-<h1 data-importer="text" align="left">Hi 👋! My name is Mohamed Alaa</h1>
+<h1 align="left">Hi 👋, I'm Mohamed Alaa</h1>
 
-###
+<img align="right" height="180" src="https://cdn.dribbble.com/userupload/41679749/file/original-f7d95157bd48917750fac2b5715386db.gif" />
 
-<img data-importer="image" align="right" height="143" src="https://cdn.dribbble.com/userupload/41679749/file/original-f7d95157bd48917750fac2b5715386db.gif"  />
+<h3 align="left">
+Junior Data Analyst | Excel | Power BI | SQL
+</h3>
 
-###
+<h2 align="left">🙋‍♂️ About Me</h2>
 
-<h1 data-importer="text" align="left">Junior Data Analyst | Excel | Power BI | SQL</h1>
-
-###
-
-<h2 data-importer="text" align="left">🙋‍♂️ About Me:<br>🎓 B.Sc. in Computer Science, Faculty of Science.<br>📊 Passionate about transforming raw data into actionable business insights.<br>📈 Interested in Business Intelligence and  Data Visualization<br>🌱 Currently learning SQL and Advanced Power BI.<br>💼 Open to Data Analyst opportunities.</h2>
-
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MohamedAlaaWork33/MohamedAlaaWork33/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=MohamedAlaaWork33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-</div>
-
-###
+<ul>
+  <li>🎓 B.Sc. in Computer Science, Faculty of Science.</li>
+  <li>📊 Passionate about transforming raw data into actionable business insights.</li>
+  <li>📈 Interested in Business Intelligence and Data Visualization.</li>
+  <li>🌱 Currently learning SQL and Advanced Power BI.</li>
+  <li>💼 Open to Data Analyst opportunities.</li>
+</ul>
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/MohamedAlaaWork33/MohamedAlaaWork33/snake-output/snake.svg" alt="Snake animation" />
+---
 
-###
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Pivot-4B8BBE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohamedAlaaWork33/MohamedAlaaWork33/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" />
+
+  <img src="https://streak-stats.demolab.com?user=MohamedAlaaWork33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160"/>
+</div>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-alaa-1a283a230/">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="mailto:mohamedalaawork33@gmail.com">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="https://wa.me/201004163743">
+<img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/MohamedAlaaWork33/MohamedAlaaWork33/snake-output/snake.svg" alt="Snake animation" />
