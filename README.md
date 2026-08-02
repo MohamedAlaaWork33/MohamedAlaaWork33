@@ -58,17 +58,17 @@ Junior Data Analyst | Excel | Power BI | SQL
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-alaa-1a283a230/">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-</a>
+  <a href="https://www.linkedin.com/in/mohamed-alaa-1a283a230/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedalaawork33@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-</a>
+  <a href="mailto:mohamedalaawork33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+  </a>
 
-<a href="https://wa.me/201004163743">
-<img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="35"/>
-</a>
+  <a href="https://wa.me/201004163743">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" />
+  </a>
 
 </div>
 
