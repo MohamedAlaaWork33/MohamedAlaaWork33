@@ -52,15 +52,6 @@ Junior Data Analyst | Excel | Power BI | SQL
 
 <img src="https://streak-stats.demolab.com?user=MohamedAlaaWork33&theme=dracula" height="160"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedAlaaWork33&theme=dracula&margin-w=10"/>
-
-</div>
 
 ---
 
