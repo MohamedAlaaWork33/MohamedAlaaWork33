@@ -44,16 +44,6 @@ Junior Data Analyst | Excel | Power BI | SQL
 
 ---
 
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAlaaWork33&theme=dracula&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
-  <img src="https://streak-stats.demolab.com?user=MohamedAlaaWork33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160"/>
-</div>
-
 ---
 
 <h2 align="center">📫 Connect With Me</h2>
