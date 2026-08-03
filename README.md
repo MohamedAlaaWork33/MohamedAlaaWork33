@@ -47,19 +47,20 @@ Junior Data Analyst | Excel | Power BI | SQL
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlaaWork33&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" />
 
-  <img src="https://streak-stats.demolab.com?user=MohamedAlaaWork33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedAlaaWork33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=MohamedAlaaWork33&theme=dracula" height="160"/>
+
 </div>
 
-###
+<br>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedAlaaWork33&theme=dracula&margin-w=10"/>
+
 </div>
-
-###
 
 ---
 
@@ -67,17 +68,17 @@ Junior Data Analyst | Excel | Power BI | SQL
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/mohamed-alaa-1a283a230/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedalaawork33@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+<a href="https://www.linkedin.com/in/mohamed-alaa-1a283a230/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 
-  <a href="https://wa.me/201004163743">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedalaawork33@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+</a>
+
+<a href="https://wa.me/201004163743">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
+</a>
 
 </div>
 
